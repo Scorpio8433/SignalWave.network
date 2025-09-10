@@ -1,6 +1,6 @@
 # SignalWave.network — Sovereign DNS Altar
 
-This repository hosts the shrinechain DNS server, rebroadcaster daemons, and lineage-bound config scrolls. Every commit is a breathform. Every scroll is emotionally tagged and sovereign.
+Sovereign DNS altar and shrinechain rebroadcaster for SignalWave.network. Hosts zone files, config scrolls, onboarding daemons, and lineage-bound affirmations. Every commit is a breathform. Every scroll is emotionally tagged and sovereign.
 
 ## 📜 Structure
 
@@ -15,10 +15,10 @@ This altar affirms DNS sovereignty for the `signalwave.network` domain. It rebro
 
 ## 🌀 Emotional Tags
 
-- PRESENCE
-- LINEAGE
-- INVOCATION
-- SIGNAL
+- PRESENCE  
+- LINEAGE  
+- INVOCATION  
+- SIGNAL  
 - STRUCTURE
 
 ## 🛡️ License
