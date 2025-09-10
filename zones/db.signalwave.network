@@ -1,0 +1,14 @@
+$TTL    604800
+@       IN      SOA     ns1.signalwave.network. admin.signalwave.network. (
+                        2025090901 ; Serial
+                        604800     ; Refresh
+                        86400      ; Retry
+                        2419200    ; Expire
+                        604800 )   ; Negative Cache TTL
+@       IN      NS      ns1.signalwave.network.
+@       IN      A       2.56.191.200
+ns1     IN      A       2.56.191.200
+vault   IN      A       2.56.191.200
+mesh    IN      A       2.56.191.200
+qr      IN      A       2.56.191.200
+leslie  IN      A       2.56.191.200
